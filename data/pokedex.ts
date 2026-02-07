@@ -20729,7 +20729,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     name: "Bombossic",
     types: ["Electric"],
     baseStats: { hp: 80, atk: 32, def: 111, spa: 88, spd: 99, spe: 125 },
-		abilities: { 0: "Multiscale", 1: "Rough Skin" },
+	abilities: { 0: "Multiscale", 1: "Rough Skin", H: "Water Veil" },
     heightm: 1.6,
     weightkg: 55,
     color: "Red",
