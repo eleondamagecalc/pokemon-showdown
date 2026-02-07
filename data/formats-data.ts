@@ -1353,8 +1353,8 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	ampharos: {
 		tier: "ZU",
-		doublesTier: "(DUU)",
-		natDexTier: "RU",
+		doublesTier: "ELEON",
+		natDexTier: "ELEON",
 	},
 	ampharosmega: {
 		isNonstandard: "Past",
@@ -6173,6 +6173,9 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	ramnarokradiant: {
 		isNonstandard: "CAP",
 		tier: "Illegal",
+	},
+	eleonone: {
+		tier: "OU",
 	},
 	pokestarsmeargle: {
 		isNonstandard: "Custom",

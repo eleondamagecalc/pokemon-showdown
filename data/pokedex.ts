@@ -20724,6 +20724,18 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Ramnarok",
 		gen: 9,
 	},
+	eleonone: {
+    num: -79,
+    name: "Eleonone",
+    types: ["Electric"],
+    baseStats: {hp: 75, atk: 110, def: 70, spa: 95, spd: 70, spe: 120},
+    abilities: {0: "Blaze", H: "Lightning Rod"},
+    heightm: 1.6,
+    weightkg: 55,
+    color: "Red",
+    eggGroups: ["Field"],
+	gen: 9,
+  },
 	// NOTE: PokeStar "formes" are not actually formes and thus do not have a formeOrder
 	pokestarsmeargle: {
 		num: -5000,
