@@ -1,5 +1,5 @@
-export const Pokedex: {[k: string]: ModdedSpeciesData} = {
-  bombossic: {
+export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable = {  
+bombossic: {
     num: -79,
     name: "Bombossic",
     types: ["Electric"],
