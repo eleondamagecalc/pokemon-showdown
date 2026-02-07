@@ -1,13 +1,9 @@
-export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable = {  
-bombossic: {
-    num: -79,
-    name: "Bombossic",
-    types: ["Electric"],
-    baseStats: {hp: 75, atk: 110, def: 70, spa: 95, spd: 70, spe: 120},
-    abilities: {0: "Blaze", H: "Lightning Rod"},
-    heightm: 1.6,
-    weightkg: 55,
-    color: "Red",
-    eggGroups: ["Field"],
-  },
+export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable = {
+	bombossic: {
+		inherit: true,
+		baseStats: { hp: 80, atk: 32, def: 111, spa: 88, spd: 99, spe: 125 },
+		abilities: { 0: "Multiscale", 1: "Rough Skin" },
+		eggGroups: ["Undiscovered"],
+	},
 };
+
