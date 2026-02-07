@@ -20724,9 +20724,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Ramnarok",
 		gen: 9,
 	},
-	eleonone: {
+	bombossic: {
     num: -79,
-    name: "Eleonone",
+    name: "Bombossic",
     types: ["Electric"],
     baseStats: {hp: 75, atk: 110, def: 70, spa: 95, spd: 70, spe: 120},
     abilities: {0: "Blaze", H: "Lightning Rod"},

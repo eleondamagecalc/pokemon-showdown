@@ -6174,7 +6174,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "CAP",
 		tier: "Illegal",
 	},
-	eleonone: {
+	bombossic: {
 		tier: "OU",
 	},
 	pokestarsmeargle: {
